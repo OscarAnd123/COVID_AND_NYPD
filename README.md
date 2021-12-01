@@ -11,4 +11,4 @@ During 2020 Black people are more likely to get arrested than any other race. Th
 
 was there a arrest disparity between different boroughs of NYC? 
 
-![vis2](/boro_pie_chart2.jpg)
+![vis2](/boro_pie_chart.jpg)

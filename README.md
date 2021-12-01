@@ -4,7 +4,7 @@
 
 At the start of this project i thought that the arrests throughout 2020 will be similar to any other year. There was lockdown because of COVID-19 which can cause a decrease in arrest. But there were social issues like the George Floyd Protest and the reinforcement of COVID-19 protocols and guidelines that could have significantly increase arrest in NYC.
 
-![vis1](/complaints_line_2020.jpg)
+![vis1](/complaints_line_2020.png)
 
 ### Arrests by Demographics, 2020
 

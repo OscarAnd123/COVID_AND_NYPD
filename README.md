@@ -24,4 +24,4 @@ If we just get rid of laws that target minorities we can change the disparity in
 
 ![vis3](/graph1.jpg)
 
-Was there a arrest disparity between different boroughs of NYC? 
+Brooklyn, Manhattatn, Bronx, and Queens had simialare number of arrests. But the only borough that had a big difference was Staten Island. This could be because the population of Staten Island is lower that the five boroughs so arrest are lower.

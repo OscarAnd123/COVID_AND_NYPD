@@ -1,10 +1,11 @@
 ## Has COVID-19 had any effect on the number of arrest by the NYPD?
 
 ## Overview
-In this project I analyzed NYPD's records of arrest throughout 2020. I analzyed the number of arrest for each month, the number of arrest by race, and the number of arrest by Boroughs. To see if COVID-19 had any effect on the number of arrest by the NYPD I also analyzed 2019 and 2018 to see if there was a drastic change and to see if there were any patterns in the data.
+My focus for this project is to show if COVID-19 change the number of arrest by the NYPD. The way I'm approaching this project is to analyze the number of arrest during 2020 and comparing that to previous years. With the analyzes that i made, i will conclude if arrest increase or decrease from previous years.
 
-During the George Floyd protest I have seen the NYPD arrest many protesters throughout the country and NYC. I was wondering if the number of Arrest had spiked up more than usual.
-my hypothesis is that the number of arrest will be similare to 2019 but have spiked up during the summer.
+I analyzed NYPD's records of arrest throughout 2020. I analzyed the number of arrest for each month, the number of arrest by race, and the number of arrest by Boroughs.
+
+During the George Floyd protest I have seen the NYPD arrest many protesters throughout the country and NYC. I was wondering if the number of Arrest had spiked up more than usual.My hypothesis is that the number of arrest will be similare to 2019 but have spiked up during the summer.
 
 ## Analyzes of 2020
 

@@ -10,7 +10,7 @@ At the start of this project i thought that the arrests throughout 2020 will be 
 
 During 2020 Black people are more likely to get arrested than any other race. The second demographic that is likely to get arrested are Hispanics.
 
-![vis2](/graph3.jpg)
+![vis2](/race_graph3.jpg)
 
 ### Arrest by Boroughs, 2020
 

@@ -87,13 +87,13 @@ plt.show()
 '''
 
 #graph 2020, 2019, 2018 data
-X_axis = np.arange(len(boro))
+months = np.arange(len(boro))
   
-plt.bar(X_axis, boroArrest, 0.25, label = '2020')
-plt.bar(X_axis + 0.25, boroArrest_2019, 0.25, label = '2019')
-plt.bar(X_axis + 0.25*2, boroArrest_2018, 0.25, label = '2018')
+plt.bar(months, boroArrest, 0.25, label = '2020')
+plt.bar(months + 0.25, boroArrest_2019, 0.25, label = '2019')
+plt.bar(months + 0.25*2, boroArrest_2018, 0.25, label = '2018')
 
-plt.xticks(X_axis+ 0.2, boro)
+plt.xticks(months+ 0.2, boro)
 plt.title('NYPD Arrest By Boroughs')
 plt.xlabel('Boroughs')
 plt.ylabel('Number of Arrest')
@@ -136,13 +136,13 @@ plt.show()
 '''
 
 #graph 2020, 2019, 2018 data
-X_axis = np.arange(len(races))
+months = np.arange(len(races))
   
-plt.bar(X_axis, raceArrest, 0.25, label = '2020')
-plt.bar(X_axis + 0.25, raceArrest_2019, 0.25, label = '2019')
-plt.bar(X_axis + 0.25*2, raceArrest_2018, 0.25, label = '2018')
+plt.bar(months, raceArrest, 0.25, label = '2020')
+plt.bar(months + 0.25, raceArrest_2019, 0.25, label = '2019')
+plt.bar(months + 0.25*2, raceArrest_2018, 0.25, label = '2018')
 
-plt.xticks(X_axis+ 0.2, races)
+plt.xticks(months+ 0.2, races)
 plt.xlabel("Race")
 plt.ylabel("Number of Arrest")
 plt.title("NYPD Arrest By Race")

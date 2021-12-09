@@ -57,9 +57,11 @@ What I learned is that COVID-19 did change the number of arrest during 2020 by a
 ## Citation
 
 Data Source:
+
 https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
 
 Information Source:
+
 https://www.wsj.com/articles/SB10001424052702304066504576345553135009870
 https://inequality.stanford.edu/sites/default/files/Crime_fact_sheet.pdf
 https://bjs.ojp.gov/content/pub/pdf/spcvt.pdf
@@ -67,5 +69,6 @@ https://abcnews.go.com/US/blacks-account-half-nyc-arrests-years-end-stop/story?i
 https://www.aclu.org/news/criminal-law-reform/a-tale-of-two-countries-racially-targeted-arrests-in-the-era-of-marijuana-reform/
 
 Image Source:
+
 https://www.nytimes.com/2019/06/05/realestate/new-york-citys-evolving-skyline.html
 

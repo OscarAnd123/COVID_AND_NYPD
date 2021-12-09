@@ -3,7 +3,7 @@
 ![vis0](/nyc2.jpg)
 
 ## Overview
-My focus for this project is to show if COVID-19 change the number of arrest by the NYPD. The way I'm approaching this project is to analyze the number of arrest during 2020 and comparing that to previous years. With the analyzes that i made, i will conclude if arrest increase or decrease from previous years.
+My focus for this project is to show if COVID-19 change the number of arrest by the NYPD. The way I'm approaching this project is to analyze the number of arrest during 2020 and comparing that to previous years. With the analyzes that I made, I will conclude if arrest increase or decrease from previous years.
 
 I analyzed NYPD's records of arrest throughout 2020, I looked at the number of arrest for each month, the number of arrest by race, and the number of arrest by Boroughs.
 
@@ -16,7 +16,7 @@ The dataset that i'll be using came from NYC Open data: https://data.cityofnewyo
 
 ![vis1](/graph2.jpg)
 
-The number of arrest in 2020 is 140413. The fisrt thing that i noticed was that there was big decrease of arrest during the months January, February, March, and April. The reason why there was a deacrease could be because of COVID-19. COVID-19 was introduced in the beginning of the year and NYC was on lockdown. The second thing i noticed was the big spike on MAY this could be because the George Floyd protest were going on and many protesters were arrested during this month. Lastly, i was astonished that Arrests were increasing during the months of August, September, October, November, and December. I don't understand why Arrests increased during the fall and winter but usually arrest decrease during these months. In a article called [Seasonal Patterns in Criminal Victimization Trends](https://bjs.ojp.gov/content/pub/pdf/spcvt.pdf) they show how violent and household property crimes show how crimes are lower during the winter. But being arrested does not necessarily mean you were charged with a crime.
+The number of arrest in 2020 is 140413. The fisrt thing that i noticed was that there was big decrease of arrest during the months January, February, March, and April. The reason why there was a deacrease could be because of COVID-19. COVID-19 was introduced in the beginning of the year and NYC was on lockdown. The second thing i noticed was the big spike on MAY this could be because the George Floyd protest were going on and many protesters were arrested during this month. Lastly, I was astonished that Arrests were increasing during the months of August, September, October, November, and December. I don't understand why Arrests increased during the fall and winter but usually arrest decrease during these months. In a article called [Seasonal Patterns in Criminal Victimization Trends](https://bjs.ojp.gov/content/pub/pdf/spcvt.pdf) they show how violent and household property crimes show how crimes are lower during the winter. But being arrested does not necessarily mean you were charged with a crime.
 
 
 ![vis2](/race_graph3.jpg)
@@ -37,7 +37,7 @@ Brooklyn, Manhattatn, Bronx, and Queens had simialare number of arrests. But the
 
 ![vis4](/graph4.jpg)
 
-I was surprised that the number of arrest decresed a lot during 2020. In the beggining of this project i thought that the number of arrest will be similare to 2019 but the number of arrest will spike up during the summer. There was a drastic decrease of arrest but there was also a spike during may.
+I was surprised that the number of arrest decresed a lot during 2020. In the beggining of this project I thought that the number of arrest will be similare to 2019 but the number of arrest will spike up during the summer. There was a drastic decrease of arrest but there was also a spike during may.
 
 Comparing the numbers of arrest during 2020 and 2019 there is a decrease of 214617 arrest (a decrease of 60.45%). 
 
@@ -52,6 +52,10 @@ Although cases are lower during 2020 the trend of Black and Hispanics being the 
 ![vis6](/graph6.jpg)
 
 what we see in this graph is that the trend of number of arrest are similare every year. Although the number of arrest are different all the boroughs have a similare number of arrest with the exception of Staten Island.
+
+## Techniques
+
+The tools I used for this project were pandas matplotlib and datetime. I used pandas in order to read the csv file and to extract data that i needed. While extracing data i also used datetime to get specific data for each month of 2020, 2019, and 2018. After extracting the data that i needed i used matplotlib in order to make bar graphs and line graphs to show the data clearly.
 
 ## Conclusion
 

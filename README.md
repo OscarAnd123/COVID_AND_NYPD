@@ -49,3 +49,14 @@ Although cases are lower during 2020 the trend of Black and Hispanics being the 
 ![vis6](/graph6.jpg)
 
 what we see in this graph is that the trend of number of arrest are similare every year. Although the number of arrest are different all the boroughs have a similare number of arrest with the exception of Staten Island.
+
+## Conclusion
+
+What I learned is that COVID-19 did change the number of arrest during 2020 by a lot. When comparing that to 2019 there was a decrease of 60.45% and comparing that to 2018 there was a decrease of 43.10%. Now im curios to see if 2021 will have simalare numbers of arrest like 2020 because COVID-19 is still prevelent or will the numbers of arrest increase because more people are getting vaccinated and NYC is opening up.
+
+##Citation
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
+https://bjs.ojp.gov/content/pub/pdf/spcvt.pdf
+https://abcnews.go.com/US/blacks-account-half-nyc-arrests-years-end-stop/story?id=71412485
+https://www.aclu.org/news/criminal-law-reform/a-tale-of-two-countries-racially-targeted-arrests-in-the-era-of-marijuana-reform/
+

@@ -54,9 +54,18 @@ what we see in this graph is that the trend of number of arrest are similare eve
 
 What I learned is that COVID-19 did change the number of arrest during 2020 by a lot. When comparing that to 2019 there was a decrease of 60.45% and comparing that to 2018 there was a decrease of 43.10%. Now im curios to see if 2021 will have simalare numbers of arrest like 2020 because COVID-19 is still prevelent or will the numbers of arrest increase because more people are getting vaccinated and NYC is opening up.
 
-##Citation
+## Citation
+
+Data Source:
 https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
+
+Information Source:
+https://www.wsj.com/articles/SB10001424052702304066504576345553135009870
+https://inequality.stanford.edu/sites/default/files/Crime_fact_sheet.pdf
 https://bjs.ojp.gov/content/pub/pdf/spcvt.pdf
 https://abcnews.go.com/US/blacks-account-half-nyc-arrests-years-end-stop/story?id=71412485
 https://www.aclu.org/news/criminal-law-reform/a-tale-of-two-countries-racially-targeted-arrests-in-the-era-of-marijuana-reform/
+
+Image Source:
+https://www.nytimes.com/2019/06/05/realestate/new-york-citys-evolving-skyline.html
 

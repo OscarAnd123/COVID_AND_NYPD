@@ -5,7 +5,7 @@ My focus for this project is to show if COVID-19 change the number of arrest by 
 
 I analyzed NYPD's records of arrest throughout 2020, I looked at the number of arrest for each month, the number of arrest by race, and the number of arrest by Boroughs.
 
-During the George Floyd protest I have seen the NYPD arrest many protesters throughout the country and NYC. I was wondering if the number of Arrest had spiked up more than usual. My hypothesis is that the number of arrest will be similare to 2019 but have spiked up during the summer.
+During the George Floyd protest I have seen the NYPD arrest many protesters throughout the country and NYC. I was wondering if the number of Arrest had spiked up more than usual. My hypothesis is that the number of arrest will be similare to 2019 but the number of arrest will spike up during the summer.
 
 ## Analyzes of 2020
 
@@ -15,6 +15,7 @@ The number of arrest in 2020 is 140413. The fisrt thing that i noticed was that 
 
 
 ![vis2](/race_graph3.jpg)
+
 During 2020 Black people are more likely to get arrested than any other race. The second demographic that is likely to get arrested are Hispanics. This is suprising because this disparity of arrests reminds me of the days of Stop and Frisk. Where the purpose of Stop and Frisk program was to target minorities and the effects are still lingering. Another reason why there is a disparity is because many communities that have a large number of minorites are being over policied.
 
 [John DeCarlo, chairman of the Department of Criminal Justice at the University of New Haven's Henry C. Lee College of Criminal Justice and Forensic Sciences, told ABC News that while he does not believe police target people for arrest based on race, he said officers often find themselves enforcing "overreaching laws" passed by legislatures that end up being biased against residents of economically disadvantaged communities.](https://abcnews.go.com/US/blacks-account-half-nyc-arrests-years-end-stop/story?id=71412485)
@@ -29,6 +30,14 @@ Brooklyn, Manhattatn, Bronx, and Queens had simialare number of arrests. But the
 
 
 ![vis4](/graph4.jpg)
+
+I was surprised that the number of arrest decresed a lot during 2020. In the beggining of this project i thought that the number of arrest will be similare to 2019 but the number of arrest will spike up during the summer. There was a drastic decrease of arrest but there was also a spike during may.
+
+Comparing the numbers of arrest during 2020 and 2019 there is a decrease of 214617 arrest (a decrease of 60.45%). 
+
+Comparing 2020 to 2018 there was a decrease of 106360 arrest (a decrease of 43.10%)
+
+One interesting thing that I saw when looking at the graph was that each year had a similare increase and decrease periods. For example, in the month of May and October there is a increase of arrest and during march through April there is a decrease. 
 
 ![vis5](/graph5.jpg)
 

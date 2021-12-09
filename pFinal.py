@@ -1,7 +1,7 @@
 '''
 Name: Oscar Andrade
 Email: oscar.andrade08@myhunter.cuny.edu
-Resources: https://numpy.org/doc/stable/reference/generated/numpy.linalg.matrix_power.html
+Resources: https://pandas.pydata.org/, https://matplotlib.org/, https://docs.python.org/3/library/datetime.html, 
 '''
 
 import numpy as np

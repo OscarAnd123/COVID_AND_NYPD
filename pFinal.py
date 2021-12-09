@@ -13,7 +13,7 @@ import datetime
 #https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data
 #https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/data
 
-#NYPD-Arrests-Data-Historic 208
+#NYPD-Arrests-Data-Historic 2018
 input_file_ = "NYPD_Arrests_Data__Historic_2018.csv"
 df_2018 = pd.read_csv(input_file_)
 

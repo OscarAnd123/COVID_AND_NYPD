@@ -28,6 +28,7 @@ If we just get rid of laws that target minorities we can change the disparity in
 
 Brooklyn, Manhattatn, Bronx, and Queens had simialare number of arrests. But the only borough that had a big difference was Staten Island. This could be because the population of Staten Island is lower that the five boroughs so arrest are lower.
 
+## Comparing The Number Of Arrest Of 2020 To Previous Years
 
 ![vis4](/graph4.jpg)
 

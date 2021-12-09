@@ -42,4 +42,8 @@ One interesting thing that I saw when looking at the graph was that each year ha
 
 ![vis5](/graph5.jpg)
 
+Although cases are lower during 2020 the trend of Black and Hispanics being the top two races from being arrested are still there. This shows that NYC is not doing enough to close the disparity gap of arrest. As I mentioned before many communities that have a large number of minorites are being over policied.
+
 ![vis6](/graph6.jpg)
+
+what we see in this graph is that the trend of number of arrest are similare every year. Although the number of arrest are different all the boroughs have a similare number of arrest with the exception of Staten Island.

@@ -44,7 +44,8 @@ def PERCENT_CHANGE(newNumber, oldNumber):
         percent = (value / oldNumber)*100
     return value, percent
 
-print(PERCENT_CHANGE(140413, 246773))
+print(PERCENT_CHANGE(140413, 355030)) #2020 and 2019
+print(PERCENT_CHANGE(140413, 246773)) #2020 and 2018
 
 #counts the number of arrest by boro
 def ARREST_BY_BORO(df, column):
@@ -76,7 +77,7 @@ boro, boroArrest = ARREST_BY_BORO(covid_2020, 'ARREST_BORO')
 boro, boroArrest_2019 = ARREST_BY_BORO(df_2019, 'ARREST_BORO')
 boro, boroArrest_2018 = ARREST_BY_BORO(df_2018, 'ARREST_BORO')
 
-
+#graph only 2020 data
 '''
 plt.bar(boro, boroArrest_2019)
 plt.title('NYPD Arrest By Boroughs')
@@ -85,6 +86,7 @@ plt.ylabel('Number of Arrest')
 plt.show()
 '''
 
+#graph 2020, 2019, 2018 data
 X_axis = np.arange(len(boro))
   
 plt.bar(X_axis, boroArrest, 0.25, label = '2020')
@@ -122,9 +124,9 @@ races, raceArrest = ARREST_BY_RACE(covid_2020, 'PERP_RACE')
 races, raceArrest_2019 = ARREST_BY_RACE(df_2019, 'PERP_RACE')
 races, raceArrest_2018 = ARREST_BY_RACE(df_2019, 'PERP_RACE')
 
+#graph only 2020 data
 '''
 fig = plt.figure(figsize =(50, 50))
-
 plt.bar(races, raceArrest)
 plt.title('NYPD Arrest By Race')
 plt.xlabel('Race')
@@ -132,6 +134,8 @@ plt.ylabel('Number of Arrests')
 plt.xticks(fontsize=12)
 plt.show()
 '''
+
+#graph 2020, 2019, 2018 data
 X_axis = np.arange(len(races))
   
 plt.bar(X_axis, raceArrest, 0.25, label = '2020')
@@ -204,6 +208,8 @@ print(monthArrest)
 print(monthArrest_2019)
 print(monthArrest_2018)
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+
+#graph only 2020 data
 '''
 fig = plt.figure(figsize =(13, 7))
 plt.plot(months, monthArrest)
@@ -213,6 +219,7 @@ plt.ylabel('Number of Arrests')
 plt.show()
 '''
 
+#graph 2020, 2019, 2018 data
 plt.plot(months, monthArrest, label = "2020")
 plt.plot(months, monthArrest_2019, label = "2019")
 plt.plot(months, monthArrest_2018, label = "2018")

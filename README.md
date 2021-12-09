@@ -1,6 +1,6 @@
 ## Has COVID-19 had any effect on the number of arrest by the NYPD?
 
-![vis0](/nyc.jfif)
+![vis0](/nyc2.jpg)
 
 ## Overview
 My focus for this project is to show if COVID-19 change the number of arrest by the NYPD. The way I'm approaching this project is to analyze the number of arrest during 2020 and comparing that to previous years. With the analyzes that i made, i will conclude if arrest increase or decrease from previous years.

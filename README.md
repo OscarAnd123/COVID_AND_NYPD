@@ -9,6 +9,9 @@ I analyzed NYPD's records of arrest throughout 2020, I looked at the number of a
 
 During the George Floyd protest I have seen the NYPD arrest many protesters throughout the country and NYC. I was wondering if the number of Arrest had spiked up more than usual. My hypothesis is that the number of arrest will be similare to 2019 but the number of arrest will spike up during the summer.
 
+The dataset that i'll be using came from NYC Open data: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/data in order to test my hypothesis and analyze the number of arrest made by the NYPD for previous years.
+
+### Data
 ## Analyzes of 2020
 
 ![vis1](/graph2.jpg)

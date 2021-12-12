@@ -61,6 +61,10 @@ The tools I used for this project were pandas matplotlib and datetime. I used pa
 
 What I learned is that COVID-19 did change the number of arrest during 2020 by a lot. When comparing that to 2019 there was a decrease of 60.45% and comparing that to 2018 there was a decrease of 43.10%. Now im curios to see if 2021 will have simalare numbers of arrest like 2020 because COVID-19 is still prevelent or will the numbers of arrest increase because more people are getting vaccinated and NYC is opening up.
 
+What I learned is that COVID-19 did change the number of arrest during 2020 by a lot. When comparing that to 2019 there was a decrease of 60.45% and comparing that to 2018 there was a decrease of 43.10%. Now I'm curios to see if 2021 will have similar numbers of arrest like 2020 because COVID-19 is still prevalent or will the numbers of arrest increase because more people are getting vaccinated, and NYC is coming back to normal.
+![image](https://user-images.githubusercontent.com/43892473/145696611-7d1cbd6c-512c-4452-b7c3-7ed1bf7c4795.png)
+
+
 ## Citation
 
 Data Source:

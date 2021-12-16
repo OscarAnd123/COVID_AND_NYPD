@@ -24,13 +24,13 @@ df_2019 = pd.read_csv(input_file_1)
 input_file_2 = "NYPD_Arrests_Data__Historic_2020.csv"
 covid_2020 = pd.read_csv(input_file_2)
 
-def COUNT_NUMBER_OF_ARREST(df, column):
+def COUNT_NUMBER_OF_ARREST(df):
     result = len(df)
     return result
 
-print(COUNT_NUMBER_OF_ARREST(covid_2020, 'ARREST_KEY')) #140413
-print(COUNT_NUMBER_OF_ARREST(df_2019, 'ARREST_KEY')) #355030
-print(COUNT_NUMBER_OF_ARREST(df_2018, 'ARREST_KEY')) #246773
+print(COUNT_NUMBER_OF_ARREST(covid_2020)) #140413
+print(COUNT_NUMBER_OF_ARREST(df_2019)) #355030
+print(COUNT_NUMBER_OF_ARREST(df_2018)) #246773
 
 def PERCENT_CHANGE(newNumber, oldNumber):
     value = 0
